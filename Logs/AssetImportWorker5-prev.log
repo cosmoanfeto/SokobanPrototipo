@@ -1,0 +1,218 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.22f1 (b6c551784ba3) revision 11978065'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'es' Physical Memory: 5941 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+D:/escritorio pchp/RepoUnitySokoban/unitySokoban3D/unitySokoban3D/Juego
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+54819
+Successfully changed project path to: D:/escritorio pchp/RepoUnitySokoban/unitySokoban3D/unitySokoban3D/Juego
+D:/escritorio pchp/RepoUnitySokoban/unitySokoban3D/unitySokoban3D/Juego
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [14516] Host "[IP] 192.168.10.2 [Port] 0 [Flags] 2 [Guid] 1702415919 [EditorId] 1702415919 [Version] 1048832 [Id] WindowsEditor(7,COSMOANFETO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [14516] Host "[IP] 192.168.10.2 [Port] 0 [Flags] 2 [Guid] 1702415919 [EditorId] 1702415919 [Version] 1048832 [Id] WindowsEditor(7,COSMOANFETO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 493.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.22f1 (b6c551784ba3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/escritorio pchp/RepoUnitySokoban/unitySokoban3D/unitySokoban3D/Juego/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     128 MB
+    Driver:   8.15.10.2900
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56416
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.048092 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 279.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.848 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2851ms)
+		BeginReloadAssembly (447ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (1941ms)
+			LoadAssemblies (427ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (568ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (112ms)
+			SetupLoadedEditorAssemblies (1056ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (43ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (280ms)
+				BeforeProcessingInitializeOnLoad (6ms)
+				ProcessInitializeOnLoadAttributes (549ms)
+				ProcessInitializeOnLoadMethodAttributes (177ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.050971 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\escritorio pchp\RepoUnitySokoban\unitySokoban3D\unitySokoban3D\Juego\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\escritorio pchp\RepoUnitySokoban\unitySokoban3D\unitySokoban3D\Juego\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.353 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6359ms)
+		BeginReloadAssembly (523ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (21ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (70ms)
+		EndReloadAssembly (5304ms)
+			LoadAssemblies (504ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (2243ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (432ms)
+			SetupLoadedEditorAssemblies (1882ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (23ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (366ms)
+				ProcessInitializeOnLoadAttributes (1300ms)
+				ProcessInitializeOnLoadMethodAttributes (132ms)
+				AfterProcessingInitializeOnLoad (58ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (44ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.21 seconds
+Refreshing native plugins compatible for Editor in 1.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3173 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (58.3 KB). Loaded Objects now: 3641.
+Memory consumption went from 114.5 MB to 114.4 MB.
+Total: 8.943200 ms (FindLiveObjects: 0.890000 ms CreateObjectMapping: 0.279800 ms MarkObjects: 7.484000 ms  DeleteObjects: 0.284700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 691352.660344 seconds.
+  path: Assets/Park Assets/Models/Stone_Path_Bank.fbx
+  artifactKey: Guid(8171e3b3272507049b22f3076cd1518f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Park Assets/Models/Stone_Path_Bank.fbx using Guid(8171e3b3272507049b22f3076cd1518f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8ef78b444aad57017d903055c191ec') in 0.524657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.736168 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/Schemas/Default Local Group_ContentUpdateGroupSchema.asset
+  artifactKey: Guid(cb5d718a2a8c8824987e0e66dfe9b3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddressableAssetsData/AssetGroups/Schemas/Default Local Group_ContentUpdateGroupSchema.asset using Guid(cb5d718a2a8c8824987e0e66dfe9b3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338199cbacedd5334f48676b588c6a45') in 0.023995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.352355 seconds.
+  path: Assets/Personaje/Ch17_nonPBR@Push Start.fbx
+  artifactKey: Guid(1498ce18bf82f92458050874d64b1af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Ch17_nonPBR@Push Start.fbx using Guid(1498ce18bf82f92458050874d64b1af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2cd3909f0edb360e29c936bb791cab') in 2.472210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Personaje/Ch17_nonPBR@Push Stop.fbx
+  artifactKey: Guid(2881222fe8d6d0848b9f90bff460fa97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Ch17_nonPBR@Push Stop.fbx using Guid(2881222fe8d6d0848b9f90bff460fa97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b329882c4004b107e275ab3599591bd') in 1.110935 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.144138 seconds.
+  path: Assets/Personaje/textures/Ch17_1001_Normal.png
+  artifactKey: Guid(f167cce658359b143858d650f2bdc59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/textures/Ch17_1001_Normal.png using Guid(f167cce658359b143858d650f2bdc59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85914862fd6010ac521474647a29a889') in 0.237210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Personaje/textures/Ch17_1002_Normal.png
+  artifactKey: Guid(02ff5dfba254fc84cbcba9b30d1252f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/textures/Ch17_1002_Normal.png using Guid(02ff5dfba254fc84cbcba9b30d1252f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f67e7c1e8ffd5cac0f0786a8db0396fd') in 0.067887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.870563 seconds.
+  path: Assets/modelos/cubo (1).fbx
+  artifactKey: Guid(79454a1990cb3af4db3aac50cc4e43bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modelos/cubo (1).fbx using Guid(79454a1990cb3af4db3aac50cc4e43bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f129823b3692da272b5187cbff89b53c') in 0.110459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/modelos/escenario umng (1).obj
+  artifactKey: Guid(1c6fec5eeba50324f9ed8020afba8501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modelos/escenario umng (1).obj using Guid(1c6fec5eeba50324f9ed8020afba8501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409ccdef60ab875228075c69253295ba') in 3.124270 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
